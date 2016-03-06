@@ -1,0 +1,28 @@
+name: This motnahP Life
+favicon: null
+layout_spectrum: 0.7530586547218263
+typography_spectrum: 0.608976406045258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7911021171603352
+  lightness: 0.7924306397326291
+  saturation: 0.10088523244485259
+  rhythmicContrast: 0.5254413085058331
+purpose: []
